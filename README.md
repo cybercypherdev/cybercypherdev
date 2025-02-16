@@ -2,8 +2,8 @@
 - 👀 I’m interested in ... AI and Machine learning , web dev, desktop apps, android apps , networking, cybersecurity
 - 🌱 I’m currently learning ... python, dart, flutter, C and C++
 - 💞️ I’m looking to collaborate on ... AI and Machine learning , web dev, desktop apps, android apps , networking, cybersecurity
-- 📫 How to reach me ... instagram at cybercypherdev
-- 😄 Pronouns: ... 
+- 📫 How to reach me ... instagram at cybercypherdev 
+- 😄 Pronouns: ... Mr.
 - ⚡ Fun fact: ...
 
 <!---
